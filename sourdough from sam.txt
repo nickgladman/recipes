@@ -1,0 +1,62 @@
+Sourdough notes and starter from Sam Deitz
+* modified by Nick
+
+[05:57, 1/31/2025] Sam Deitz: I maintain my starter using AP flour at 100% hydration, which means I feed it a 1:1 ratio of flour and water. Some recipes will specify a lower hydration starter, but most use 100%. 
+
+To feed your starter: 
+I generally feed my starter a 1:2:2 ratio if starter/flour/water,  but bump it up to a 1:3:3 if I’m running low on starter and need more. 
+
+Transfer 10g of starter to a clean container. Add 20g water and 20g flour, combine with a clean spoon until all the flour is incorporated and moist. It will look a lily shaggy or lumpy sometimes, that’s okay. 
+
+The remaining starter in the original container is unfed and considered discard. I keep this in a separate jar and use it to flavor  any other bread I’m making, like pizza crust, crumpets, waffles, or even crackers. There are tons of great sourdough discard recipes out there to keep this part from going to waste! If you find you have too much discard, you can even reduce your ratio when you feed your starter to 5g:10g:10g. All you need to do is keep the yeast alive, so the starter doesn’t have to be big. You’ll feed it before baking bread to bulk it to the amount you need to the recipe. 
+
+After feeding I let met starter sit a room temp for 3-6 hours, until I see bubbles forming and know the yeast are active. Then I pop it back in the fridge. 
+
+Starter is pretty robust and can go without being fed for 2, or even 3 weeks. If your starter is really hungry you’ll notice a clear-grey liquid forming on top of your starter, called hooch. It will smell like alcohol (because it is!). You can stir it in or pour it off. Keeping it in your starter will intensify the sour flavor. 
+
+A healthy starter should smell yeasty 94 of alcohol. Anything that smells bad, or if it looks pink, or like grey spaghetti noodles on top mean it’s spoiled.
+[06:10, 1/31/2025] Sam Deitz: Oh I forgot to mention- I keep my starter in a mason jar with the band on, but loose. Basically any container is fine but you don’t want it to be perfectly sealed to allow for a little gas exchange.
+
+# Sam's recipe (70.8% hydration)
+
+475g bread flour
+110g fed starter (40 grams water, 40 grams AP flour, 20 grams starter)
+325g water
+10g salt
+Rice flour for dusting
+
+# 78.6% hydration
+
+475g bread flour
+110g fed starter (40 grams water, 40 grams AP flour, 20 grams starter)
+365g water
+10g salt
+Rice flour for dusting
+
+
+# 28% whole wheat (experimental; 75.7% hydration):
+
+380g bread flour
+95g whole wheat flour
+110g fed starter/levain (40 grams water, 40 grams whole wheat flour, 20 grams starter)
+350g water
+10g salt
+Rice flour for dusting
+# notes: this bread was much denser. I also didn't let it bulk ferment enough, but still maybe going for ~10% wheat would be a better ratio
+
+
+
+1. Feed 20g starter 45g water and 45g flour. Let sit room temp until doubled or tripled in size (~4-5 hours)
+2. Mix all ingredients to form cohesive dough. I use a dough hook on my kitchen aid mixer.
+3. Let rise 30 minutes. Perform one set of stretch and folds. Could also do a coil fold here. Repeat four times for a total of four sets of stretch and folds with 30 minute rest in between. 
+4. Let rest at room temp to bulk ferment, about 5-6 more hours depending on bulk of your kitchen. It should at least double in bulk, and jiggle when you shake the bowl a bit. 
+5. Prep banneton or small bowl by lining with a clean kitchen towel or canvas liner. I use a kitchen towel. Dust towel or liner with rice flour or other non-wheat flour, I use rice. Basically if you use a wheat flour the gluten will be moistened from the moisture in the dough and then it is more likely to stick and won’t form the skin that helps create shape. 
+6. Shape based on the shape of your bowl/banneton, and flip seam side down into prepared vessel. I suggest YouTube videos for this part, there are a thousand ways to shape! 
+	* shape and rest for 20-40 minutes
+7. Cover. I just dust the top of the dough with rice flour once it’s in the banneton and then flip the edges of the towel over the top. Rest overnight in fridge. 
+	* rest for at least 12-15 hours to improve flavor.
+8. Next morning: preheat Dutch oven for one hour at 475 degrees. 
+9. Remove bread from fridge, and turn bread out onto a piece of parchment paper. I put an inverted baking sheet over the top of my bread, flip it, and lift the bowl/towel off so the bread doesn’t fall out and get misshapen.
+10. score (again, YouTube is helpful, there’s 100000 ways). 
+11. Use parchment to gently transfer to Dutch oven. Drop heat to 435. Bake with lid on for 20 minutes. Remove lid and bake until desired brown-ness. Internal temp should reach at least 200F. I like to bake until 210F.
+	* for Dix Hills oven, it took 20 minutes covered and 20 minutes uncovered to get internal temp at or slightly above 210 degrees F
