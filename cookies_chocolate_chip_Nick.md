@@ -4,7 +4,9 @@
 
 ### Adapted from Kirkland Signature Semi-Sweet Chocolate Chip recipe
 
-## Ingredients (weight, converted by Nick using https://www.kingarthurbaking.com/learn/ingredient-weight-chart)
+## Ingredients (weight)
+**converted by Nick using https://www.kingarthurbaking.com/learn/ingredient-weight-chart**
+
 3/4 cups (1.5 sticks, 170 grams) butter (softened)
 
 213 grams light brown sugar (packed)
