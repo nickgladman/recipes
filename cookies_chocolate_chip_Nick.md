@@ -42,7 +42,7 @@
 ## Directions
 1. Combine butter, sugar and brown sugar in a medium-size bowl. Blend with a mixer until smooth.
 
-2. Add eggs (or egg replacer) and vanilla extract. Mix thoroughly with an electric mixer on medium speed.
+2. Add eggs (or egg replacer) and vanilla extract. Mix thoroughly with an electric mixer on medium or medium-high speed for ~4-6 minutes.
 
 3. Combine flour, baking soda, and salt. Slowly add dry ingredients until thoroughly blended. Fold in chocolate chips with a spatula.
 
