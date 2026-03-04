@@ -6,16 +6,24 @@
 
 ## Ingredients (weight, converted by Nick using https://www.kingarthurbaking.com/learn/ingredient-weight-chart)
 3/4 cups (1.5 sticks, 170 grams) butter (softened)
+
 213 grams light brown sugar (packed)
 	* original recipe called for dark brown sugar
+
 99 grams granulated sugar
+
 2 eggs (large)
 	* for egg replacer, might need to add 0.5-1 tbsp more water
+
 1 tablespoon vanilla extract
+
 1 teaspoon baking soda
+
 1/2 teaspoon salt
+
 320 grams all-purpose flour
 	* 300 grams of flour might result in slacker cookies, but 320 grams had good results.
+
 2-2.5 cups or x g chocolate chips
 
 ## Ingredients (volume)
