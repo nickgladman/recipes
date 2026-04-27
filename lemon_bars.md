@@ -6,24 +6,28 @@
 Author: Sally Prep Time: 10 minutes Cook Time: 40 minutes Total Time: 3 hours, 50 minutes Yield: 24 bars
 You only need 7 ingredients to make these lemon bars. The lemon curd filling is extra thick and creamy and sits on an irresistible butter shortbread crust. Always bake lemon bars at a lower temperature to avoid over-baking. See recipe notes for important tips. They’re simply the best lemon bars and are perfect for picnics, bake sales, spring brunches, baby showers, and bridal showers.
 
-Ingredients
-SHORTBREAD CRUST
-1 cup (230g; 2 sticks) unsalted butter, melted
-	* I use the Kerrygold (European butter with higher fat content)
-1/2 cup (100g) granulated sugar
-2 teaspoons pure vanilla extract
-1/2 teaspoon salt
-2 cups + 2 Tablespoons (265g) all-purpose flour (spooned & leveled)
+##Ingredients
 
-LEMON FILLING
-2 cups (400g) granulated sugar
-6 Tablespoons (46g) all-purpose flour
-6 large eggs
-1 cup (240ml) lemon juice (about 4 lemons)
+**SHORTBREAD CRUST**
+
+* 1 cup (230g; 2 sticks) unsalted butter, melted
+	* I use the Kerrygold (European butter with higher fat content)
+* 1/2 cup (100g) granulated sugar
+* 2 teaspoons pure vanilla extract
+* 1/2 teaspoon salt
+* 2 cups + 2 Tablespoons (265g) all-purpose flour (spooned & leveled)
+
+**LEMON FILLING**
+
+* 2 cups (400g) granulated sugar
+* 6 Tablespoons (46g) all-purpose flour
+* 6 large eggs
+* 1 cup (240ml) lemon juice (about 4 lemons)
 optional: confectioners’ sugar for dusting
 
 
-### Instructions
+## Instructions
+
 1. Preheat the oven to 325°F (163°C). Line the bottom and sides of a 9×13 glass baking pan (do not use metal) with parchment paper, leaving an overhang on the sides to lift the finished bars out (makes cutting easier!). Set aside.
 	* I use a metal pan because this is all I have, I will update this note if I get a glass pan and retry. So far I don't notice any 'metallic' flavor, but it's all I'm used to.
 
