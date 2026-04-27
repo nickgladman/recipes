@@ -1,7 +1,7 @@
-I Lemon Bars 
-(some notes and modifications by Nick)
+# Lemon Bars 
+**(some notes and modifications by Nick)**
 
-https://sallysbakingaddiction.com/lemon-bars-recipe/
+* originally from https://sallysbakingaddiction.com/lemon-bars-recipe/
 
 Author: Sally Prep Time: 10 minutes Cook Time: 40 minutes Total Time: 3 hours, 50 minutes Yield: 24 bars
 You only need 7 ingredients to make these lemon bars. The lemon curd filling is extra thick and creamy and sits on an irresistible butter shortbread crust. Always bake lemon bars at a lower temperature to avoid over-baking. See recipe notes for important tips. They’re simply the best lemon bars and are perfect for picnics, bake sales, spring brunches, baby showers, and bridal showers.
@@ -23,28 +23,29 @@ LEMON FILLING
 optional: confectioners’ sugar for dusting
 
 
-Instructions
-Preheat the oven to 325°F (163°C). Line the bottom and sides of a 9×13 glass baking pan (do not use metal) with parchment paper, leaving an overhang on the sides to lift the finished bars out (makes cutting easier!). Set aside.
+### Instructions
+1. Preheat the oven to 325°F (163°C). Line the bottom and sides of a 9×13 glass baking pan (do not use metal) with parchment paper, leaving an overhang on the sides to lift the finished bars out (makes cutting easier!). Set aside.
 	* I use a metal pan because this is all I have, I will update this note if I get a glass pan and retry. So far I don't notice any 'metallic' flavor, but it's all I'm used to.
 
-Make the crust: Mix the melted butter, sugar, vanilla extract, and salt together in a medium bowl. 
+2. Make the crust: Mix the melted butter, sugar, vanilla extract, and salt together in a medium bowl. 
 
-Add the flour and stir to completely combine. The dough will be thick. Press firmly into prepared pan, making sure the layer of crust is nice and even. Bake for 20-22 minutes or until the edges are lightly browned. Remove from the oven. Using a fork, poke holes all over the top of the warm crust (not all the way through the crust). A new step I swear by, this helps the filling stick and holds the crust in place. Set aside until step 4.
+3. Add the flour and stir to completely combine. The dough will be thick. Press firmly into prepared pan, making sure the layer of crust is nice and even. Bake for 20-22 minutes or until the edges are lightly browned. Remove from the oven. Using a fork, poke holes all over the top of the warm crust (not all the way through the crust). A new step I swear by, this helps the filling stick and holds the crust in place. Set aside until step 4.
 	* for dix hills oven (using parchment paper in metal pan) it took 25-32 minutes to get lightly brown on the edges and the middle was solid enough for pouring
 		* generally I found 32 minutes to be good.
 
-Make the filling: Sift the sugar and flour together in a large bowl. Whisk in the eggs, then the lemon juice until completely combined.
+4. Make the filling: Sift the sugar and flour together in a large bowl. Whisk in the eggs, then the lemon juice until completely combined.
 	* using 6 eggs made this filling very slack--not viscous at all, but it turned out perfect
 	* for Dix Hills electric oven, it took 28 minutes
 
-Pour filling over warm crust. Bake the bars for 22-26 minutes or until the center is relatively set and no longer jiggles. (Give the pan a light tap with an oven mitt to test.) Remove bars from the oven and cool completely at room temperature. I usually cool them for about 2 hours at room temperature, then stick in the refrigerator for 1-2 more hours until pretty chilled. I recommend serving chilled.
+5. Pour filling over warm crust. Bake the bars for 22-26 minutes or until the center is relatively set and no longer jiggles. (Give the pan a light tap with an oven mitt to test.) Remove bars from the oven and cool completely at room temperature. I usually cool them for about 2 hours at room temperature, then stick in the refrigerator for 1-2 more hours until pretty chilled. I recommend serving chilled.
 	* for Dix Hills electric oven, it took 28 minutes
 
-Once cool, lift the parchment paper out of the pan using the overhang on the sides. Dust with confectioners’ sugar and cut into squares before serving. For neat squares, wipe the knife clean between each cut. Cover and store leftover lemon bars in the refrigerator for up to 1 week.
-Freezing Instructions: Lemon bars can be frozen for up to 3-4 months. Cut the cooled bars (without confectioners’ sugar topping) into squares, then place onto a baking sheet. Freeze for 1 hour. Individually wrap each bar in aluminum foil or plastic wrap and place into a large bag or freezer container to freeze. Thaw in the refrigerator, then dust with confectioners’ sugar before serving.
+6. Once cool, lift the parchment paper out of the pan using the overhang on the sides. Dust with confectioners’ sugar and cut into squares before serving. For neat squares, wipe the knife clean between each cut. Cover and store leftover lemon bars in the refrigerator for up to 1 week.
+
+7. Freezing Instructions: Lemon bars can be frozen for up to 3-4 months. Cut the cooled bars (without confectioners’ sugar topping) into squares, then place onto a baking sheet. Freeze for 1 hour. Individually wrap each bar in aluminum foil or plastic wrap and place into a large bag or freezer container to freeze. Thaw in the refrigerator, then dust with confectioners’ sugar before serving.
 
 
-Notes (from website)
+### Notes (from website)
 Special Tools (affiliate links): 9×13-Inch Glass Pan | Glass Mixing Bowls | Spatula | Silicone Whisk | Juicer | Fine Mesh Sieve
 
 Halve the Recipe: Halve each of the ingredients to yield around 12 squares in a 9×9-inch baking pan. 
