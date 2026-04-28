@@ -16,6 +16,7 @@ Pinch of kosher salt
 	* in practice I need more liquid, closer to 1 cup of liquid for two pie crusts, so this would be ~1/4 cup water to 3/4 cup vodka
 
 ### Alternate pie crust (Saltine cracker crust)
+**note: this crust makes the pie egg-free**
 36 tablespoons of softened butter
 0.45 cups of sugar
 380-400 grams of saltine crackers
@@ -91,7 +92,7 @@ Pinch of kosher salt
 
 Let cool for at least 1 hour, ideally 3-4 hours, then slice and serve.
 
-### Saltine cracker crust preparation and baking
+### Saltine cracker crust preparation and baking (egg-free pie recipe)
 
 1. Preheat oven to 350.
 
