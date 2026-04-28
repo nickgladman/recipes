@@ -7,20 +7,21 @@
 ##vPERFECT PIE CRUST dough **This makes 1x10 inch pie crust** Double for covered pies.
 
 ### INGREDIENTS (makes one, 10 inch pie crust, good for deep dish pie)
-2 cups all-purpose flour, plus more for dusting (240 grams)
-Pinch of kosher salt
-10 tablespoons (1.25 sticks) unsalted butter, diced and chilled
-2 large egg yolks
-4 tablespoons ice water or vodka or mix of both
+
+* 2 cups all-purpose flour, plus more for dusting (240 grams)
+* Pinch of kosher salt
+* 10 tablespoons (1.25 sticks) unsalted butter, diced and chilled
+* 2 large egg yolks
+* 4 tablespoons ice water or vodka or mix of both
 	*recent test: 1:5 or 1:6 tablespoons vodka:ice water
 	* in practice I need more liquid, closer to 1 cup of liquid for two pie crusts, so this would be ~1/4 cup water to 3/4 cup vodka
 
 ### Alternate pie crust (Saltine cracker crust)
+
 **note: this crust makes the pie egg-free**
 36 tablespoons of softened butter
 0.45 cups of sugar
 380-400 grams of saltine crackers
-
 
 
 ### INGREDIENTS APPLE PIE (MACERATED)
