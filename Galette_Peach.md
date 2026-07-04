@@ -10,14 +10,14 @@
 
 ## Ingredients
 
-### Pastry:
-        * 100 grams (3/4 cup) unbleached all-purpose flour, plus more for working with the dough (or 1 full heaping cup flour and no whole wheat flour) 
-        * 42 grams (6 tablespoons) whole wheat flour
-        * 12 grams (1 tablespoon) granulated sugar
-        * Scant 1/2 teaspoon kosher salt
-        * 127 grams (9 tablespoons) cold unsalted butter, cut into small chunks
+### Pastry (original recipe was 1/3 less than the current amounts):
+        * 150 grams (~4/5 cup) unbleached all-purpose flour, plus more for working with the dough (or 1 full heaping cup flour and no whole wheat flour) 
+        * 63 grams (6 tablespoons) whole wheat flour
+        * 19 grams (1 tablespoon) granulated sugar
+        * 3/4 teaspoon kosher salt
+        * 190 grams (~14 tablespoons) cold unsalted butter, cut into small chunks
         * 1 large egg (or use Bob's Redmill Egg Replacer)
-        * 1 1/2 teaspoons milk
+        * 1.5 teaspoons milk
         * 1 tablespoon beaten egg or heavy cream (for the wash)
         * Turbinado sugar, for sprinkling
 ### Filling:
