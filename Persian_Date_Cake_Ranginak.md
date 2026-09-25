@@ -15,10 +15,11 @@
 
 * 32 tablespoons of high fat butter (Kerrygold or similar)
 	* 1 cup safflower oil (may substitute 16 tablespoons unsalted butter or ghee)
+    * Note: using lower fat butters (ex: American) might impact the thickness of the roux all other ingredients being equal
 
 * 2.5-3.5 cups flour (loose, shaken cups) for 32 tablespoons butter
 	* you can use 2.5 cups for 32 tablespoons of butter, but the roux will be very liquid still and need to cool and then sit in the fridge overnight before it firms up enough to remove from the springform pan.
-	* **Using ~3.25 loose cups of flour with the below amounts of sugar and spices created a very thick, spreadable halva with a great final texture, so I would go with this amount**
+	* **Using ~3.25 loose cups of flour with higher fat butter (ex. Kerrygold) the below amounts of sugar and spices created a very thick, spreadable halva with a great final texture, so I would go with this amount**
 
 * 5 tablespoons confectioners' sugar
 
