@@ -49,7 +49,7 @@ Transfer the dough to a bowl (or keep in the stand mixer bowl), cover with plast
 
 Using a large spoon, portion out the dough and roll it into balls. Place onto a parchment-lined sheet pan or, if freezing, into plastic bags. Making dough balls of ~40 grams in weight will yield ~18 cookies for a full batch and ~36-40 for a 1.75x batch.
 
-**Alternatively (what I used to do since I didn't have a lot of freezer space): Pour out cookie dough onto a length of parchment paper and mold into a loaf (~7.5 cm (3 inches) wide and 4.5-5 cm (1.5-2 inches) in depth). Wrap with the parchment paper and refrigerate in an airtight container (sealable plastic bag) in the fridge for several days until use: chop off =>1 cm (~ 1/2 inch segments and lay onto parchment-lined baking sheet and cook as below.** Modify the dimensions of your loaf to your preferences.
+**Alternatively (what I used to do since I didn't have a lot of freezer space): Pour out cookie dough onto a length of parchment paper and mold into a loaf (~7.5 cm (3 inches) wide and 4.5-5 cm (1.5-2 inches) in depth). Wrap with the parchment paper and refrigerate in an airtight container (sealable plastic bag) in the fridge for several days until use: chop off =>1 cm ~ 1/2 inch segments and lay onto parchment-lined baking sheet and cook as below.** Modify the dimensions of your loaf to your preferences.
 
 **Baking**
 
