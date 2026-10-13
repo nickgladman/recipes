@@ -2,15 +2,16 @@
 
 ### Ingredients
 
-* 6-9 small Roma tomatoes (depending on size of tomatoes and size of pan)
-* 2-3 tablespoons olive oil
-* 1-2 tablespoons heavy cream
+* 2-3 small Roma tomatoes (depending on size of tomatoes and size of pan)
+	* can use other tomatos as well. Example: cherry tomatoes work nice, but will create a spread with a lot more skins it it.
+* 2-3 tablespoons olive oil (adjust for tomato quantity, want to a thin layer covering the bottom of the pan)
+* 1-2 tablespoons heavy cream (or to desired amount)
 * Seasonings (to taste, but around a teaspoon each unless otherwise noted):
 	* salt
 	* sumac
 	* smoked paprika
 	* cayenne (1/4 teaspoon)
-	* sugar
+	* white sugar
 	* worcestershire sauce (1/2-3/4 teaspoon)
 	* black pepper (~1/4-1/2 teaspoon)
 
@@ -32,6 +33,9 @@
 7. Mix and let cook for a few more minutes, or until the flavor and consistency are what you prefer.
 
 8. Serve with toast. Eggs pair well too.
+
+### Notes
+1. This was inspired from shakshouka and can used with eggs as well. 
 
 
 ### LLM input
