@@ -32,10 +32,10 @@
 
 7. Mix and let cook for a few more minutes, or until the flavor and consistency are what you prefer.
 
-8. Serve with toast. Eggs pair well too.
+8. Serve with toast, pretzel chips, or crispy starch of choice.
 
 ### Notes
-1. This was inspired from shakshouka and can used with eggs as well. 
+1. This was inspired from shakshouka and can used with eggs as well.
 
 
 ### LLM input
