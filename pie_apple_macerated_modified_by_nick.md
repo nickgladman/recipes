@@ -2,31 +2,34 @@
 
 **original recipe: Tasty https://www.buzzfeed.com/michelleno/guide-to-perfect-apple-and-pumpkin-pie-crust-recipe**
 
-**Modified by Nick (12/8/2024)**
+**Modified by Nick**
 
-##vPERFECT PIE CRUST dough **This makes 1x10 inch pie crust** Double for covered pies.
 
-### INGREDIENTS (makes one, 10 inch pie crust, good for deep dish pie)
+### INGREDIENTS
 
-* 2 cups all-purpose flour, plus more for dusting (240 grams)
-* Pinch of kosher salt
-* 10 tablespoons (1.25 sticks) unsalted butter, diced and chilled
-* 2 large egg yolks
-* 4 tablespoons ice water or vodka or mix of both
-	*recent test: 1:5 or 1:6 tablespoons vodka:ice water
-	* in practice I need more liquid, closer to 1 cup of liquid for two pie crusts, so this would be ~1/4 cup water to 3/4 cup vodka
+**makes one 10-inch pie crust that is good for deep dish pie tin**
+**Double this recipe if making a top pie crust**
+
+* 2.5 cups all-purpose flour, plus more for dusting (290 grams)
+* Large Pinch of kosher salt
+* 12 tablespoons (1.5 sticks) unsalted butter, diced and chilled
+* 2.5 large egg yolks (you'll need 5 total for both top and bottom crust)
+* 5 tablespoons ice water or vodka or mix of both (0.30 cups)
+	*good ratio: 1:5 or 1:6 tablespoons vodka:ice water
 
 ### Alternate pie crust (Saltine cracker crust)
+**good for a single crust, need to double if want a top crust**
 
-**note: this crust makes the pie egg-free**
-36 tablespoons of softened butter
-0.45 cups of sugar
-380-400 grams of saltine crackers
+* 36 tablespoons of softened butter
+* 0.45 cups of sugar
+* 380-400 grams of saltine crackers
 
 
 ### INGREDIENTS APPLE PIE (MACERATED)
+** this can be made a day ahead or frozen for long term storage**
 
-* 5 pounds Granny Smith apples (I needed about 4 lbs and I still had just a few extra slices)
+* 5 pounds Granny Smith apples
+	* this will make a lot of extra filling that can be stored in the fridge or freezer for later use
 * 2 cup brown sugar
 	* originally 1 cup
 * 1/2 teaspoon fine salt
@@ -63,11 +66,11 @@
 
 1. Peel and thinly slice the apples (keep the apples in a bowl of lemon water as you go to prevent browning).
 
-2. In a large bowl, toss the apples with the brown sugar, salt, cinnamon, lemon juice, and half of the cornstarch. Once the apples are well coated, let sit and macerate for 30-60 minutes, stirring occasionally.
+2. In a large bowl, toss the apples with the brown sugar, salt, cinnamon, lemon juice, and half of the cornstarch. Once the apples are well coated, let sit and macerate for 15-30 minutes, stirring occasionally.
 
 3. Preheat the oven to 400˚F (200˚C).
 
-4. Transfer the apples to a colander set over a medium bowl and let drain for about 15 minutes, until all of the liquid is drawn out.
+4. Transfer the apples to a colander set over a medium bowl and let drain for about 5-10 minutes, until all of the liquid is drawn out. Mix the apples around to ensure complete drainage.
 
 5. Transfer the liquid released from the apples to a small pot over low heat.
 
@@ -81,19 +84,14 @@
 
 10. Brush all over with egg wash and sprinkle with the sanding sugar. Use a paring knife to cut a few vents in the top for steam to escape.
 
-11. Bake for 40-45 minutes, until golden brown.
-
-	* for dix hill oven with a shallow 9-inch pan, it took ~50-60 minutes until the top crust got nicely golden brown
-	* After the 1 hour mark, the bottom of the crust was still a little light, so maybe cover the pie with aluminum foil at the 50-60 mark and bake for another 10-20 minutes. Or par-bake
-	* for using deep dish pie dish: divide dough into slightly uneven portions so that you have enough for the bottom pie crust.
-	* If par-baking with the deep dish, cover with aluminum foil and cook for ~20-25 minutes at 400 degrees. Start this par-bake when there is a ~10 minutes left on straining the macerated apples--this will allow enough time for the dough and dish to cool so the top dough can be placed over it comfortably
-		* When cooking, check at 40-45 minute mark and cover crust with aluminum foil if browned enough. Cook for another 15-25 minutes to ensure doneness on bottom crust
-		* For Dix Hills after par-baking for 20 minutes and cooking for a total of 1 hr 10 minutes had the bottom of the pie cooked through, but maybe a bit lighter than it could be. 
-		* Optimized cooking time: 25 minutes par-bake (while covered), then 1 hr 10-15 minutes of total cooking (45 uncovered and 25-30 covered)
+11. Bake for 40-45 minutes, until golden brown on the top. Then lightly cover with aluminum foil and bake for another 20-30 minutes (total bake = 60-75 minutes
+	* for my oven with a deep pie dish, it took 45 minutes for the top to get color then another another 30 minutes to get a nice baked bottom (total bake time = 75 minutes)
 
 Let cool for at least 1 hour, ideally 3-4 hours, then slice and serve.
 
-### Saltine cracker crust preparation and baking (egg-free pie recipe)
+
+
+### Saltine cracker crust preparation and baking
 
 1. Preheat oven to 350.
 
@@ -108,7 +106,13 @@ Let cool for at least 1 hour, ideally 3-4 hours, then slice and serve.
 6. Use spatula to reform ridges saltine crust to the sides of pie dish.
 
 7. Add pie filling and cover with chilled saltine dough round on top. Bake at until top gets some color and bottom is baked through. I did this for 1 hour 10 minutes.
+	* I have not yet tried cooking this without par-baking.
 
 8. Let cool.
 
+
+
+### Notes
+
+* If using 5 pounds of Granny Smith, this still yields a surplus of filling even with the deep dish pie tin. The surplus filling freezes really well in sealable bags for several months. So you could make this filling way ahead of time and then thaw it a day or two before baking.
 
