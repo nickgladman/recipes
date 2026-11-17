@@ -76,15 +76,17 @@
 
 6. In a small bowl, mix the rest of the cornstarch and the water to make a slurry. Add the slurry to the apple liquid and quickly stir to incorporate. Bring to a boil, then add the butter and stir until melted. Immediately remove from the heat and pour over the apples, stirring to coat.
 
-7. Gently drape 1 rolled-out pie crust in a 10-inch pie dish.
+	* Note: you can make the macerated apple mixture a day ahead as well. Just put it in the fridge after adding the caramel back to the apple slices.
 
-8. Lay the apples in the pie crust, making sure they are flat and the rounded edges face out in order to fit as many apples as possible in the crust. Pour any leftover liquid from the bowl over the apples.
+8. Gently drape 1 rolled-out pie crust in a 10-inch pie dish.
 
-9. Top with the other rolled-out pie crust. Trim the excess dough from the edges, press the 2 crusts together to seal, then fold the edges under. Crimp the edges,
+9. Lay the apples in the pie crust, making sure they are flat and the rounded edges face out in order to fit as many apples as possible in the crust. Pour any leftover liquid from the bowl over the apples.
 
-10. Brush all over with egg wash and sprinkle with the sanding sugar. Use a paring knife to cut a few vents in the top for steam to escape.
+10. Top with the other rolled-out pie crust. Trim the excess dough from the edges, press the 2 crusts together to seal, then fold the edges under. Crimp the edges,
 
-11. Bake for 40-45 minutes, until golden brown on the top. Then lightly cover with aluminum foil and bake for another 20-30 minutes (total bake = 60-75 minutes
+11. Brush all over with egg wash and sprinkle with the sanding sugar. Use a paring knife to cut a few vents in the top for steam to escape.
+
+12. Bake for 40-45 minutes, until golden brown on the top. Then lightly cover with aluminum foil and bake for another 20-30 minutes (total bake = 60-75 minutes
 	* for my oven with a deep pie dish, it took 45 minutes for the top to get color then another another 30 minutes to get a nice baked bottom (total bake time = 75 minutes)
 
 Let cool for at least 1 hour, ideally 3-4 hours, then slice and serve.
