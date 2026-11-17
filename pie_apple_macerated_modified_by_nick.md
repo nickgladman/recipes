@@ -29,7 +29,7 @@
 ** this can be made a day ahead or frozen for long term storage**
 
 * 5 pounds Granny Smith apples
-	* this will make a lot of extra filling that can be stored in the fridge or freezer for later use
+	* this will make a lot of extra filling that can be stored in the fridge or freezer for later use. Anywhere from 4-5 pounds with the listed amount of spices and sugar below will be sufficient for flavoring. Adjust to your liking.
 * 2 cup brown sugar
 	* originally 1 cup
 * 1/2 teaspoon fine salt
@@ -40,7 +40,6 @@
 * 3.5 tablespoons cornstarch, divided
 * 3 tablespoons water
 * 4 tablespoons unsalted butter
-* 2 premade pie crusts, rolled out to ⅛-inch thick
 
 * optional
 	* 1/2 teaspoon cardamon
