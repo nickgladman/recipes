@@ -6,37 +6,37 @@
 
 ### Ingredients (1x batch makes ~18 cookies (40g dough balls))
 
-225 g butter, at room temperature OR 16 tablespoons (2 sticks)
+* 225 g butter, at room temperature OR 16 tablespoons (2 sticks)
 	* for vegan option, replace with 225 g of shortening (try to use butter-flavored vegetable shortening)
-300 g sugar OR 1 1/2 cups
+* 300 g sugar OR 1 1/2 cups
 	* optional alternative: 200 g of white sugar and 100 grams of light brown sugar
-1 extra large eggs + 1 tablespoon whole milk
+* 1 extra large eggs + 1 tablespoon whole milk
 	* for Bob's Red Mill Egg  Replacer use 2x the amount for one egg: 2 tbsp egg replacer + 4 tbsp water. Otherwise dough will be too dry
 	* Note: usually the large eggs I buy are not large enough, so 1 tablespoon of whole milk makes the cookies a bit more moist
-225 g flour OR 1 1/3 cups
-45 g corn flour OR 1/4 cup 
-65 g freeze-dried corn powder OR 2/3 cup
-3 g baking powder OR 3/4 teaspoon
-1.5 g baking soda OR 1/4 teaspoon
-6 g kosher salt OR 1 1/2 teaspoons
+* 225 g flour OR 1 1/3 cups
+* 45 g corn flour OR 1/4 cup 
+* 65 g freeze-dried corn powder OR 2/3 cup
+* 3 g baking powder OR 3/4 teaspoon
+* 1.5 g baking soda OR 1/4 teaspoon
+* 6 g kosher salt OR 1 1/2 teaspoons
 
 
 ### Ingredients (1.75x batch yields 36-40 40g dough balls)
 
 **Note: making a 1.75x batch is the max capacity for my smaller KitchenAid stand mixer**
 
-394 g butter, at room temperature OR 28 tablespoons (3.5 sticks)
+* 394 g butter, at room temperature OR 28 tablespoons (3.5 sticks)
 	* for vegan option, replace with 225 g of shortening (try to use butter-flavored vegetable shortening)
-525 g sugar
-2 extra large eggs
+* 525 g sugar
+* 2 extra large eggs
 	* for Bob's Red Mill Egg  Replacer use 2x the amount for one egg: 4 tbsp egg replacer + 8 tbsp water. Otherwise dough will be too dry
 	* Note: usually the large eggs I buy are not large enough, so 1 tablespoon of whole milk makes the cookies a bit more moist
-394 g flour 
-79 g corn flour 
-114 g freeze-dried corn powder
-5.25 g baking powder OR 1.3 teaspoon
-2.63 g baking soda OR 0.44 teaspoon
-10.5 g kosher salt OR 2.63 teaspoons
+* 394 g flour 
+* 79 g corn flour 
+* 114 g freeze-dried corn powder
+* 5.25 g baking powder OR 1.3 teaspoon
+* 2.63 g baking soda OR 0.44 teaspoon
+* 10.5 g kosher salt OR 2.63 teaspoons
 
 
 Note: Freeze dried corn powder was made by buying freeze dried corn kernels and then pulverizing them in a food processor until fine. This processed corn be stored in an airtight container until use. I have used Augason Farms Freeze Dried Sweet Corn 1lb No. 10 Can with pretty good success.
