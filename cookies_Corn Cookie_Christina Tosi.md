@@ -5,6 +5,7 @@
 *Modified by Nick for a normal person's kitchen*
 
 ### Ingredients (1x batch makes ~18 cookies (40g dough balls))
+
 225 g butter, at room temperature OR 16 tablespoons (2 sticks)
 	* for vegan option, replace with 225 g of shortening (try to use butter-flavored vegetable shortening)
 300 g sugar OR 1 1/2 cups
